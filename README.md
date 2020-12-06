@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 ### :sunglasses: Hi there, I'm [Hugo Andres Diaz Bernal!!!](https://my-profile-beryl.vercel.app/) 
 
 <a href="https://twitter.com/hadiazb_ing">
